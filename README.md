@@ -7,10 +7,7 @@ int main(){
     char e,e1,e2;
     for(i=0;i<n;i++){
         Push(L,a[i]);
-
     }
-
-
    while(GetTop(L,e)==true)
    {
     Pop(L,e1);
